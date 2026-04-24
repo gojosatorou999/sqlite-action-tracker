@@ -8,7 +8,7 @@ A lightweight Python utility designed to track and log user actions securely wit
 - **Intuitive Interface:** Easily log actions with distinct types and supplementary context.
 - **Automated Timestamping:** The system automatically captures the exact moment an action is saved to the database.
 
-## Database Structure & Logs Explanation :
+## Database Structure & Logs Explanation 
 
 The logs are stored in a database file named `tracker.db`, containing a main table called `user_logs`. This helps in systematically addressing *what* action took place and *when* it occurred.
 
