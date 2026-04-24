@@ -5,7 +5,7 @@ A lightweight Python utility designed to track and log user actions securely wit
 ## Features
 
 - **Local Storage:** Utilizes SQLite for fast, local, and file-based data persistence.
-- **Intuitive Interface:** Easily log actions with distinct types and supplementary context..
+- **Intuitive Interface:** Easily log actions with distinct types and supplementary context.
 - **Automated Timestamping:** The system automatically captures the exact moment an action is saved to the database.
 
 ## Database Structure & Logs Explanation :
